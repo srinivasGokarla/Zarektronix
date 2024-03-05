@@ -57,3 +57,10 @@ This project is a user registration application built using Node.js, Express, Mo
 
 ## Demo link
 [link](https://drive.google.com/file/d/1IPccz1aYUQ0DhHLZJZJbfSgElyASy148/view?usp=sharing)
+
+#### Cloud Deployment
+
+- Render
+used Render for deploying the MongoDB (database), node js (Backend).
+- vercel 
+used vercel for deploying reactjs(frontend)
