@@ -49,7 +49,15 @@ This project is a user registration application built using Node.js, Express, Mo
 2. Fill out the registration form with the required details.
 3. Click the "Register" button to register online.
 4. If offline, the registration data will be saved locally.
+## Screenshots
+
+![Screenshot of User  Online Registration Application](D:\course\masai\assignment\zarektronix\Screenshot 2024-03-06 114000.png)
+
 5. When online again, the saved offline data will be synchronized with the server automatically.
+
+## Screenshots
+
+![Screenshot of User  Online Registration Application](D:\course\masai\assignment\zarektronix\Screenshot 2024-03-06 114056.png)
 
 
 ## Deployed link
@@ -64,3 +72,4 @@ This project is a user registration application built using Node.js, Express, Mo
 used Render for deploying the MongoDB (database), node js (Backend).
 - vercel 
 used vercel for deploying reactjs(frontend)
+
