@@ -51,13 +51,13 @@ This project is a user registration application built using Node.js, Express, Mo
 4. If offline, the registration data will be saved locally.
 ## Screenshots
 
-![Screenshot of User  Online Registration Application](Screenshot 2024-03-06 114000.png)
+![Screenshot of User  Online Registration Application](https://github.com/srinivasGokarla/Zarektronix/blob/main/Screenshot%202024-03-06%20114000.png)
 
 5. When online again, the saved offline data will be synchronized with the server automatically.
 
 ## Screenshots
 
-![Screenshot of User  Online Registration Application](Screenshot 2024-03-06 114056.png)
+![Screenshot of User  Offline Registration Application](https://github.com/srinivasGokarla/Zarektronix/blob/main/Screenshot%202024-03-06%20114056.png)
 
 
 ## Deployed link
